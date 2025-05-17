@@ -1,0 +1,13 @@
+name = "EEssentials"
+filename = "EEssentials-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/L8TVvPvs/versions/HtDbQy1v/EEssentials-1.1.0.jar"
+hash-format = "sha512"
+hash = "659968801e3f7f0f398c74abbda3cc40b5fc0229f61ca7fea0c571e95f6dff1c68d8205e98f7782428b67b8e27ec2b9b5d41450aecdc139218b87e54631b6082"
+
+[update]
+[update.modrinth]
+mod-id = "L8TVvPvs"
+version = "HtDbQy1v"

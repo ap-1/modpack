@@ -76,6 +76,11 @@ hash = "8697b0c71170d6e9bc4c30726581a63ad0ff9b15dbc810e295169234a6a0849e"
 metafile = true
 
 [[files]]
+file = "mods/eessentials.pw.toml"
+hash = "1145f5177e09b6a946b05950520c1951f72c1d8d678e2c2c9226511206ebc76e"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
 metafile = true
@@ -121,6 +126,11 @@ hash = "18b60127de9614f0ace6a9a6101c41b9c7dc328a2723611c659f39a196a96a8e"
 metafile = true
 
 [[files]]
+file = "mods/invview.pw.toml"
+hash = "83faa3592a9579a62918edd2c51f926c816f3432bd4ec2d80f7a3cff0b44eb91"
+metafile = true
+
+[[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
 metafile = true
@@ -138,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "62b5f6133f799c95d48314eef3e353b8689477f075e9f604a2566de03d593563"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
 metafile = true
 
 [[files]]
@@ -178,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "c071fd08f91018852edc7a504f8158726808ea23d61c599dfbddde51d67bb341"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "0201eb8dce1b66107457141c16049d6ffaf952f506b4e37129a4b4a1b8e12b1c"
 metafile = true
 
 [[files]]
