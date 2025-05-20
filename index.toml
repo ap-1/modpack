@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Logo.png"
+hash = "ad329cd0f0108149ef396059205c28ad3253d259d35cf6ce7a806f959b48fb46"
+
+[[files]]
 file = "README.md"
 hash = "f375739ea081adaf4b701192ecf836d4de9834735c9c279669e85e5b8a52883f"
 
@@ -135,6 +139,11 @@ hash = "83faa3592a9579a62918edd2c51f926c816f3432bd4ec2d80f7a3cff0b44eb91"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "c1cc1e05c95d769dd4929825e6a85d5ac8023d4a018569f40dd7bd972a81655e"
+metafile = true
+
+[[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
 metafile = true
@@ -205,6 +214,11 @@ hash = "c071fd08f91018852edc7a504f8158726808ea23d61c599dfbddde51d67bb341"
 metafile = true
 
 [[files]]
+file = "mods/rules4worlds.pw.toml"
+hash = "c6d6f9cba021c8bb0cf031db394556e0db28ae8ff816b6263f048df61a3b9cd9"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "0201eb8dce1b66107457141c16049d6ffaf952f506b4e37129a4b4a1b8e12b1c"
 metafile = true
@@ -237,4 +251,9 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
+metafile = true
+
+[[files]]
+file = "mods/warputils.pw.toml"
+hash = "6288d1f35e7a2b9faa7dc3a666303647ca7af8455de70b5f8671a1392f54ccb0"
 metafile = true
