@@ -244,6 +244,11 @@ hash = "72c0e1d4d8eb05e6c82c8959885ee5f08b8c7ede63b438e22a7422246679cc46"
 metafile = true
 
 [[files]]
+file = "mods/tpa++.pw.toml"
+hash = "10ce51a6805b47222d4bf19b7975354fcf1afedd14714ee84b9c67bbbe2cb294"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "bf080aaab8b7d17a6443cdeced04f84a3ba1cd76aa57023e96f0646cb80cca02"
 metafile = true
@@ -251,9 +256,4 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
-metafile = true
-
-[[files]]
-file = "mods/warputils.pw.toml"
-hash = "6288d1f35e7a2b9faa7dc3a666303647ca7af8455de70b5f8671a1392f54ccb0"
 metafile = true
