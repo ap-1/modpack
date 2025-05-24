@@ -1,0 +1,45 @@
+name: Export
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "stable"
+
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Extract name and version from pack.toml
+        id: get-meta
+        run: |
+          NAME=$(grep '^name = ' pack.toml | cut -d '"' -f2)
+          VERSION=$(grep '^version = ' pack.toml | cut -d '"' -f2)
+          echo "NAME=$NAME" >> $GITHUB_OUTPUT
+          echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
+
+      - name: Export .mrpack
+        run: |
+          OUTPUT_FILE="${{ steps.get-meta.outputs.NAME }}-${{ steps.get-meta.outputs.VERSION }}.mrpack"
+          echo "Outputting to $OUTPUT_FILE"
+          packwiz modrinth export --output "$OUTPUT_FILE"
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: "${{ github.ref_name }}"
+          name: "Modpack v${{ steps.get-meta.outputs.VERSION }}"
+          files: "${{ steps.get-meta.outputs.NAME }}-${{ steps.get-meta.outputs.VERSION }}.mrpack"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
