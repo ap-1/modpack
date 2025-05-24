@@ -244,6 +244,11 @@ hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
 metafile = true
 
 [[files]]
+file = "mods/open-simple-frames.pw.toml"
+hash = "d8b7084e1c8e42b6fce3c648b12b5a4a1595771670cb6372a9ff5f2092958c2c"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "cc6182aa315fe07cd475deee4bbe8c742f299a79138cc966356fb0a4a7d3d141"
 metafile = true
