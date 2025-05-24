@@ -1,6 +1,6 @@
 name = "cmu2029"
 author = "ap-1"
-version = "1.0.2"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
