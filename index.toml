@@ -54,6 +54,11 @@ hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "7469476f6992f6d3b976e234146e7358975b74d93136ff20a6baaf45fb4db382"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
@@ -116,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/eessentials.pw.toml"
 hash = "1145f5177e09b6a946b05950520c1951f72c1d8d678e2c2c9226511206ebc76e"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "b58e81bdab1b3db9bdbf331e45f7438abdf62b63e495dccc003b3ebdf02a3abf"
 metafile = true
 
 [[files]]
@@ -306,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/tpa++.pw.toml"
 hash = "10ce51a6805b47222d4bf19b7975354fcf1afedd14714ee84b9c67bbbe2cb294"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
