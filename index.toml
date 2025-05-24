@@ -9,6 +9,16 @@ file = "README.md"
 hash = "f375739ea081adaf4b701192ecf836d4de9834735c9c279669e85e5b8a52883f"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "b8dcd81b72048d30a1a7182dd6163c3cbd9658e22fa84e9dd2387164a649dd01"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "0451dc4f6515b79d34787804283141613029af0de58e2769def4d70e3777625c"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "6317bd1e6013059a52574d7002e744cd1d662ba345d019d75e37d384fd6060b0"
 metafile = true
@@ -101,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-cutting-betterend.pw.toml"
 hash = "675fd5b6406449ded90c6a61b7d6b25ee308c2bc8516f7a8c0bd3b2ff454686f"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-the-aether.pw.toml"
+hash = "f772154c9050bd7cea9509988837d28a9c006f467ae4dd338de219bd89f272ab"
 metafile = true
 
 [[files]]
