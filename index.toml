@@ -59,13 +59,33 @@ hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
+file = "mods/create-food.pw.toml"
+hash = "6a9d857b42a5c1885771e1a9a62f06e731f660580dd04722eff4816ba3213a05"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "b4126dfd91618f20b6bb32e1aa7de64a38f1a39c2513ac5892fbb4c7b61e91ff"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
+metafile = true
+
+[[files]]
 file = "mods/create-structures.pw.toml"
 hash = "916c17614ec51da73e173b7249118b473e479c370a48378bc7f91eb5e5abfa9d"
+metafile = true
+
+[[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "96b0da15913458b2d1aa9ba1f95bb55ea34867625e0018f4c765562dab055313"
+metafile = true
+
+[[files]]
+file = "mods/create-utilities.pw.toml"
+hash = "9ccef182f9ef60d4dd5e093430c372098b45809d0468aedda6e43011a9c89b87"
 metafile = true
 
 [[files]]
