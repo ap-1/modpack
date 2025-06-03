@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Logo.png"
-hash = "ad329cd0f0108149ef396059205c28ad3253d259d35cf6ce7a806f959b48fb46"
-
-[[files]]
 file = "README.md"
 hash = "f375739ea081adaf4b701192ecf836d4de9834735c9c279669e85e5b8a52883f"
 
