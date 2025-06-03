@@ -270,11 +270,6 @@ hash = "d8b7084e1c8e42b6fce3c648b12b5a4a1595771670cb6372a9ff5f2092958c2c"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "cc6182aa315fe07cd475deee4bbe8c742f299a79138cc966356fb0a4a7d3d141"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
@@ -302,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "0201eb8dce1b66107457141c16049d6ffaf952f506b4e37129a4b4a1b8e12b1c"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "dc7cdb875b860056c1dcc88988e0ed17d0058d9127f897ffe058457f3daa888a"
 metafile = true
 
 [[files]]
