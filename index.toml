@@ -265,6 +265,16 @@ hash = "c071fd08f91018852edc7a504f8158726808ea23d61c599dfbddde51d67bb341"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+metafile = true
+
+[[files]]
 file = "mods/rules4worlds.pw.toml"
 hash = "c6d6f9cba021c8bb0cf031db394556e0db28ae8ff816b6263f048df61a3b9cd9"
 metafile = true
@@ -295,6 +305,11 @@ hash = "b52762ecbf8d003dcfece87414708d94db789a01d98cae1530464f2906a958f2"
 metafile = true
 
 [[files]]
+file = "mods/tempad.pw.toml"
+hash = "a4faf061a2881a18681ffbce1c4d76029ad398f14bb5b082a4c2b182eb914cc4"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
@@ -302,11 +317,6 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "72c0e1d4d8eb05e6c82c8959885ee5f08b8c7ede63b438e22a7422246679cc46"
-metafile = true
-
-[[files]]
-file = "mods/tpa++.pw.toml"
-hash = "10ce51a6805b47222d4bf19b7975354fcf1afedd14714ee84b9c67bbbe2cb294"
 metafile = true
 
 [[files]]
