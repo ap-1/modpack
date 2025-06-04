@@ -110,8 +110,8 @@ hash = "1145f5177e09b6a946b05950520c1951f72c1d8d678e2c2c9226511206ebc76e"
 metafile = true
 
 [[files]]
-file = "mods/elytra-slot.pw.toml"
-hash = "b58e81bdab1b3db9bdbf331e45f7438abdf62b63e495dccc003b3ebdf02a3abf"
+file = "mods/elytra_trinket.pw.toml"
+hash = "6843acc9f467e19880f90e2a914c939163374bd9be8113e460a4b17a842f9bae"
 metafile = true
 
 [[files]]
