@@ -1,12 +1,12 @@
 name = "cmu2029"
 author = "ap-1"
-version = "1.1.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d36bda0f82e486922070e75da2bc17dbcb0e39192d2ea926254dfecf4e4260ac"
+hash = "5fad975d1eb3bb05c342106030a72c76f42ec303cf4c4e66e1fc587c57b5aecb"
 
 [versions]
 fabric = "0.16.14"

@@ -320,11 +320,6 @@ hash = "b52762ecbf8d003dcfece87414708d94db789a01d98cae1530464f2906a958f2"
 metafile = true
 
 [[files]]
-file = "mods/tempad.pw.toml"
-hash = "a4faf061a2881a18681ffbce1c4d76029ad398f14bb5b082a4c2b182eb914cc4"
-metafile = true
-
-[[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
@@ -332,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "72c0e1d4d8eb05e6c82c8959885ee5f08b8c7ede63b438e22a7422246679cc46"
+metafile = true
+
+[[files]]
+file = "mods/tpa++.pw.toml"
+hash = "10ce51a6805b47222d4bf19b7975354fcf1afedd14714ee84b9c67bbbe2cb294"
 metafile = true
 
 [[files]]
