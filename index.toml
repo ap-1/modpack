@@ -110,6 +110,11 @@ hash = "8697b0c71170d6e9bc4c30726581a63ad0ff9b15dbc810e295169234a6a0849e"
 metafile = true
 
 [[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "b8f4c6a7a6ca91737bdae663eebc6315dcf2a4fcb0ad7715aa8730bb6f0c1382"
+metafile = true
+
+[[files]]
 file = "mods/eessentials.pw.toml"
 hash = "1145f5177e09b6a946b05950520c1951f72c1d8d678e2c2c9226511206ebc76e"
 metafile = true
@@ -117,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/elytra_trinket.pw.toml"
 hash = "6843acc9f467e19880f90e2a914c939163374bd9be8113e460a4b17a842f9bae"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
+hash = "34a07ff5c170cd95eb586e3e40e65636eb4bbf283c24762055db6094b91de494"
 metafile = true
 
 [[files]]
@@ -157,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "0f83be0761e0014686517c20f2850242152dd7a26e87088d869028bc40a8a125"
 metafile = true
 
 [[files]]
@@ -357,4 +372,24 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "c360a4aef0ce719d385529002ba157a731d572b73cefb573c763d71d54039078"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "8bc20a4cf22bdd4406a64126647cfe3c704e80a3197031c9154032905a276705"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "b2af03e504a1827f2f6fc09597e7d51f4ecd64ab1ebb329a9eb9ffb98372673a"
 metafile = true
